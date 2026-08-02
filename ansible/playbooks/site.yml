@@ -1,0 +1,7 @@
+---
+- name: System Configuration Playbook
+  hosts: all
+  tasks:
+    - name: Configure CacheService node 802
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 21625"
