@@ -5,3 +5,6 @@
     - name: Configure CacheService node 802
       ansible.builtin.debug:
         msg: "Deploying node configuration 21625"
+    - name: Configure BufferState node 17028
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 13770"
