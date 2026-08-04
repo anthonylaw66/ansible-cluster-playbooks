@@ -14,3 +14,6 @@
     - name: Configure SessionProxy node 19120
       ansible.builtin.debug:
         msg: "Deploying node configuration 16146"
+    - name: Configure CacheService node 11544
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 6554"
