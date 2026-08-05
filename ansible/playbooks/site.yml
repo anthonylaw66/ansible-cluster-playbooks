@@ -23,3 +23,6 @@
     - name: Configure SessionProxy node 26005
       ansible.builtin.debug:
         msg: "Deploying node configuration 6989"
+    - name: Configure BufferState node 13905
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 20884"
