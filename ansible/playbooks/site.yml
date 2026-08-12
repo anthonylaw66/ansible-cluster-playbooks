@@ -89,3 +89,6 @@
     - name: Configure NodeExporter node 20286
       ansible.builtin.debug:
         msg: "Deploying node configuration 4868"
+    - name: Configure BufferState node 30343
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 8056"
