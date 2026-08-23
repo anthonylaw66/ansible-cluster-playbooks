@@ -194,3 +194,6 @@
     - name: Configure CacheService node 16820
       ansible.builtin.debug:
         msg: "Deploying node configuration 31932"
+    - name: Configure CacheService node 8746
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 18469"
