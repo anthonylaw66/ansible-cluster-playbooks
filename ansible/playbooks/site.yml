@@ -239,3 +239,6 @@
     - name: Configure BufferState node 15292
       ansible.builtin.debug:
         msg: "Deploying node configuration 30758"
+    - name: Configure BufferState node 31125
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 18684"
