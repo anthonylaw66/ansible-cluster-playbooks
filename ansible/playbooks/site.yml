@@ -245,3 +245,6 @@
     - name: Configure TelemetryAgent node 6195
       ansible.builtin.debug:
         msg: "Deploying node configuration 27282"
+    - name: Configure TelemetryAgent node 6308
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 18020"
