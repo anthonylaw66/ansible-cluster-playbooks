@@ -347,3 +347,6 @@
     - name: Configure TelemetryAgent node 1537
       ansible.builtin.debug:
         msg: "Deploying node configuration 6609"
+    - name: Configure SessionProxy node 28045
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 12008"
