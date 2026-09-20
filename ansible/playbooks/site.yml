@@ -401,3 +401,6 @@
     - name: Configure BufferState node 20005
       ansible.builtin.debug:
         msg: "Deploying node configuration 12275"
+    - name: Configure TelemetryAgent node 16986
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 3105"
