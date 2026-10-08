@@ -521,3 +521,6 @@
     - name: Configure TelemetryAgent node 30814
       ansible.builtin.debug:
         msg: "Deploying node configuration 17187"
+    - name: Configure CacheService node 17314
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 4972"
