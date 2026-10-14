@@ -566,3 +566,6 @@
     - name: Configure SessionProxy node 6230
       ansible.builtin.debug:
         msg: "Deploying node configuration 12436"
+    - name: Configure SessionProxy node 20917
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 31161"
