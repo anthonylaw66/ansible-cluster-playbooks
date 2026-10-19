@@ -611,3 +611,6 @@
     - name: Configure NodeExporter node 15716
       ansible.builtin.debug:
         msg: "Deploying node configuration 4036"
+    - name: Configure NodeExporter node 1723
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 2746"
