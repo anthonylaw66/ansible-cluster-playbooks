@@ -677,3 +677,6 @@
     - name: Configure NodeExporter node 21078
       ansible.builtin.debug:
         msg: "Deploying node configuration 698"
+    - name: Configure TelemetryAgent node 5576
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 27209"
