@@ -812,3 +812,6 @@
     - name: Configure SessionProxy node 3092
       ansible.builtin.debug:
         msg: "Deploying node configuration 25600"
+    - name: Configure NodeExporter node 3112
+      ansible.builtin.debug:
+        msg: "Deploying node configuration 13465"
